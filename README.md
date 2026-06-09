@@ -2,8 +2,8 @@
 
 > A full-stack placement management platform inspired by Superset — built for college TPOs, students, and recruiters. Features an AI engine that automatically scores and ranks applicants against job descriptions.
 
-**Live Demo:** `https://your-app.vercel.app` ← replace after deployment  
-**Demo Video:** `https://youtube.com/your-demo` ← record after Week 5
+**Live Demo:** `https://your-app.vercel.app` ←  replace after deployment  
+**Demo Video:** `https://youtube.com/your-demo` ←  record after Week 5
 
 ---
 
