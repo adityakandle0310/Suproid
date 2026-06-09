@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🎓 Suproid - Campus Placement Portal with AI Shortlisting
 
 > A full-stack placement management platform inspired by Superset — built for college TPOs, students, and recruiters. Features an AI engine that automatically scores and ranks applicants against job descriptions.
